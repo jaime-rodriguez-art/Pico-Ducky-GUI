@@ -11,7 +11,7 @@ Universal raspberry pi pico gui that runs your python scripts from html files.
 
 1. Copy the files to your raspberry pi pico
 
-## Credit
+## Attribution
 
 Pyscript, Run Python in Your HTML. (https://pyscript.net)
 
