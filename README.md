@@ -15,7 +15,7 @@
 <div align="center">
   <strong>Universal raspberry pi pico gui that runs your python scripts from html files.</strong>
   
-  (payload tested on windows but can easily be changed for other operating systems)
+  (payload tested on windows but can easily be changed for other os)
   
 </div>
 
