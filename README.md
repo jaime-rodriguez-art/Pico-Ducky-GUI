@@ -16,6 +16,15 @@
 
 <br />
 
+<br />
+
+<div align="center">
+!(images/ducky.svg)
+</div>
+
+<br />
+
+
 ## Install
 
 1. Copy the files to your raspberry pi pico
