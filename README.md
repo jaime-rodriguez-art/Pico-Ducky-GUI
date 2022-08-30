@@ -19,7 +19,7 @@
 <br />
 
 <div align="center">
-!(images/ducky.svg)
+![Ducky](images/ducky.svg)
 </div>
 
 <br />
