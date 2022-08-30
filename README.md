@@ -28,7 +28,9 @@
 
 ## Install
 
-1. Copy the files to your raspberry pi pico
+1. Copy the files to your raspberry pi pico 
+
+(ducky script is configure for windows but can easily be changed for other operating systems)
 
 ## Requirements
 
