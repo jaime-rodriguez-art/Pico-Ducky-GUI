@@ -1,3 +1,5 @@
+<h1 align="center">Pico-Ducky-Pyscript-GUI</h1>
+
 <br />
 
 <div align="center">
@@ -8,8 +10,6 @@
 </div>
 
 <br />
-
-<h1 align="center">Pico-Ducky-Pyscript-GUI</h1>
 
 <div align="center">
   <strong>Universal raspberry pi pico gui that runs your python scripts from html files.</strong>
