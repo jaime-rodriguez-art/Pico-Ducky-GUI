@@ -24,3 +24,7 @@ CircuitPython, The easiest way to program microcontrollers (https://circuitpytho
 Pico-Ducky, Make a cheap but powerful USB Rubber Ducky with a Raspberry Pi Pico (https://github.com/dbisu/pico-ducky)
 
 Usb Rubber Ducky, To a computer it's a keyboard, typing at superhuman speeds. (https://shop.hak5.org/products/usb-rubber-ducky)
+
+## About Me
+
+Artstation, Im an artist that likes to code when my textures are baking. (https://www.artstation.com/jaimerodriguez)
