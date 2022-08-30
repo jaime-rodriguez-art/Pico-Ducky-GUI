@@ -35,7 +35,7 @@
 
 ## Instructions
 
-1. Edit any of the _pyscript.html and add your python scripts inbetween "<py-script> </py-script>".
+1. Edit any of the _pyscript.html and add your python scripts inbetween py-script /py-script.
 
 ## Requirements
 
