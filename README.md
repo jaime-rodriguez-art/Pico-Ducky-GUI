@@ -33,6 +33,10 @@
 
 1. Copy the files to your raspberry pi pico 
 
+## Instructions
+
+1. Edit any of the _pyscript.html and add your python scripts inbetween <py-script> </py-script>.
+
 ## Requirements
 
 1. Raspberry pi pico (https://www.raspberrypi.com/products/raspberry-pi-pico/)
