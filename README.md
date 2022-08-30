@@ -35,7 +35,9 @@
 
 ## Instructions
 
-1. Edit any of the _pyscript.html and add your python scripts inbetween py-script /py-script.(https://pyscript.net)
+1. Edit any of the _pyscript.html and add your python scripts inbetween py-script /py-script.
+   
+   More details at (https://pyscript.net)
 
 ## Requirements
 
