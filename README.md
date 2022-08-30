@@ -27,4 +27,4 @@ Usb Rubber Ducky, To a computer it's a keyboard, typing at superhuman speeds. (h
 
 ## About Me
 
-Artstation, Im an artist that likes to code when my textures are baking. (https://www.artstation.com/jaimerodriguez)
+Artist that likes to code when my textures are baking. (https://www.artstation.com/jaimerodriguez)
