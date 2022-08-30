@@ -13,9 +13,9 @@
 <br />
 
 <div align="center">
-  <strong>Portable gui that runs your python scripts on pyscript.</strong>
+  <strong>Portable gui that runs your python scripts on pyscript</strong>
   
-  <strong>(payload tested on windows.)</strong>
+  <strong>(payload tested on windows)</strong>
   
 </div>
 
@@ -31,7 +31,7 @@
 
 ## Install
 
-1. Copy the files to your ducky raspberry pi pico 
+1. Copy the files to your ducky raspberry pi pico. 
 
 ## Instructions
 
