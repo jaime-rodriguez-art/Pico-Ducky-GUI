@@ -37,8 +37,6 @@
 
 1. Edit any of the _pyscript.html and add your python scripts inbetween py-script /py-script.
    
-   More details at https://pyscript.net
-
 ## Requirements
 
 1. Internet conection for the Pyscript framework. https://pyscript.net
