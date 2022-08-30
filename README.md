@@ -41,7 +41,7 @@
 
 1. Raspberry pi pico (https://www.raspberrypi.com/products/raspberry-pi-pico/)
 2. Pico-Ducky setup on your raspberry pi pico (https://github.com/dbisu/pico-ducky)
-3. Internet conection for the Pyscript framework to function.
+3. Internet conection for the Pyscript framework to work.
 
 ## Attribution
 
