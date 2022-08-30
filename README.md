@@ -1,3 +1,14 @@
+<br />
+
+<div align="center">
+
+<img src="https://github.com/jaime-rodriguez-art/Pico-Ducky-Pyscript-GUI/blob/main/images/ducky.svg" width=10% height=10%>
+<img src="https://github.com/jaime-rodriguez-art/Pico-Ducky-Pyscript-GUI/blob/main/images/raspberry.svg" width=10% height=10%>
+
+</div>
+
+<br />
+
 <h1 align="center">Pico-Ducky-Pyscript-GUI</h1>
 
 <div align="center">
@@ -13,18 +24,6 @@
   <img alt="GitHub commit activity" src="https://img.shields.io/github/commit-activity/m/jaime-rodriguez-art/Pico-Ducky-Pyscript-GUI">
   <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/jaime-rodriguez-art/Pico-Ducky-Pyscript-GUI">
 </div>
-
-<br />
-
-<div align="center">
-
-<img src="https://github.com/jaime-rodriguez-art/Pico-Ducky-Pyscript-GUI/blob/main/images/ducky.svg" width=10% height=10%>
-<img src="https://github.com/jaime-rodriguez-art/Pico-Ducky-Pyscript-GUI/blob/main/images/raspberry.svg" width=10% height=10%>
-
-</div>
-
-<br />
-
 
 ## Install
 
