@@ -1,15 +1,15 @@
 # Pico-Ducky-Pyscript-GUI
 Universal raspberry pi pico gui that runs your python scripts from html files.
 
+## Install
+
+1. Copy the files to your raspberry pi pico
+
 ## Requirements
 
 1. Raspberry pi pico (https://www.raspberrypi.com/products/raspberry-pi-pico/)
 2. Pico-Ducky setup on your raspberry pi pico (https://github.com/dbisu/pico-ducky)
 3. Internet conection for the Pyscript framework to function.
-
-## Install
-
-1. Copy the files to your raspberry pi pico
 
 ## Attribution
 
