@@ -4,6 +4,8 @@
   <strong>Universal raspberry pi pico gui that runs your python scripts from html files.</strong>
 </div>
 
+<br />
+
 <div align="center">
   <img alt="GitHub code size in bytes" src="https://img.shields.io/github/languages/code-size/jaime-rodriguez-art/Pico-Ducky-Pyscript-GUI">
   <img alt="GitHub license" src="https://img.shields.io/github/license/jaime-rodriguez-art/Pico-Ducky-Pyscript-GUI">
@@ -11,6 +13,8 @@
   <img alt="GitHub commit activity" src="https://img.shields.io/github/commit-activity/m/jaime-rodriguez-art/Pico-Ducky-Pyscript-GUI">
   <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/jaime-rodriguez-art/Pico-Ducky-Pyscript-GUI">
 </div>
+
+<br />
 
 ## Install
 
