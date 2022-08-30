@@ -31,7 +31,7 @@
 
 ## Install
 
-1. Copy the files to your raspberry pi pico 
+1. Copy the files to your ducky raspberry pi pico 
 
 ## Instructions
 
