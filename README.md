@@ -1,4 +1,4 @@
-<h1 align="center">Pico-Ducky-Pyscript-GUI</h1>
+<h1 align="center">Ducky-GUI</h1>
 
 <br />
 
@@ -13,7 +13,7 @@
 <br />
 
 <div align="center">
-  <strong>Simple universal raspberry pi pico gui that runs your python scripts from html files.</strong>
+  <strong>Simple universal raspberry pi pico gui that runs your python scripts on pyscript from your local html files.</strong>
   
   (payload tested on windows but can easily be changed for other os)
   
