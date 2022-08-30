@@ -1,5 +1,8 @@
-# Pico-Ducky-Pyscript-GUI
-Universal raspberry pi pico gui that runs your python scripts from html files.
+<h1 align="center">Pico-Ducky-Pyscript-GUI</h1>
+
+<div align="center">
+  <strong>Universal raspberry pi pico gui that runs your python scripts from html files.</strong>
+</div>
 
 ## Install
 
