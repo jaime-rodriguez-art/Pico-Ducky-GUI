@@ -1,4 +1,4 @@
-<h1 align="center">Ducky GUI</h1>
+<h1 align="center">Ducky - GUI</h1>
 
 <br />
 
