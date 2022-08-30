@@ -15,7 +15,7 @@
 <div align="center">
   <strong>Universal raspberry pi pico gui that runs your python scripts from html files.</strong>
   
-  (ducky script is configure for windows but can easily be changed for other operating systems)
+  (payload tested on windows but can easily be changed for other operating systems)
   
 </div>
 
