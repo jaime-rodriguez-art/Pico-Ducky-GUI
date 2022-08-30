@@ -40,7 +40,9 @@
 ## Requirements
 
 1. Internet conection for the Pyscript framework. https://pyscript.net
+
 2. Raspberry pi pico. https://www.raspberrypi.com/products/raspberry-pi-pico/
+
 3. Pico-Ducky setup on your raspberry pi pico. https://github.com/dbisu/pico-ducky
 
 ## Attribution
