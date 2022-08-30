@@ -4,6 +4,7 @@
 
 <div align="center">
 
+<img src="https://github.com/jaime-rodriguez-art/Pico-Ducky-Pyscript-GUI/blob/main/images/raspberry.svg" width=10% height=10%>
 <img src="https://github.com/jaime-rodriguez-art/Pico-Ducky-Pyscript-GUI/blob/main/images/ducky.svg" width=10% height=10%>
 <img src="https://github.com/jaime-rodriguez-art/Pico-Ducky-Pyscript-GUI/blob/main/images/raspberry.svg" width=10% height=10%>
 
