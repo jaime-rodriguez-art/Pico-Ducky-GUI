@@ -35,7 +35,9 @@
 
 ## Instructions
 
-1. Edit any of the _pyscript.html and add your python scripts inbetween py-script /py-script.
+1. Make sure the raspberry pi pico is on D: or change the payload drive letter.
+
+2. Edit any of the _pyscript.html and add your python scripts inbetween py-script /py-script.
    
 ## Requirements
 
