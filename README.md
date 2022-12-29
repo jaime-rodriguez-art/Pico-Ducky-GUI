@@ -35,7 +35,7 @@
 
 ## Instructions
 
-1. Make sure the raspberry pi pico is on D: or change the payload drive letter.
+1. Make sure the raspberry pi pico is on D: or change the drive letter in payload.dd.
 
 2. Edit any of the _pyscript.html and add your python scripts inbetween py-script /py-script.
    
